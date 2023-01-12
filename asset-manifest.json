@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/thermometer/static/css/main.a205d749.css",
+    "main.css": "/thermometer/static/css/main.8e55085c.css",
     "main.js": "/thermometer/static/js/main.9ed98326.js",
     "index.html": "/thermometer/index.html",
-    "main.a205d749.css.map": "/thermometer/static/css/main.a205d749.css.map",
+    "main.8e55085c.css.map": "/thermometer/static/css/main.8e55085c.css.map",
     "main.9ed98326.js.map": "/thermometer/static/js/main.9ed98326.js.map"
   },
   "entrypoints": [
-    "static/css/main.a205d749.css",
+    "static/css/main.8e55085c.css",
     "static/js/main.9ed98326.js"
   ]
 }
